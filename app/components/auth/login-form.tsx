@@ -158,7 +158,7 @@ export function LoginForm() {
           欢迎使用 MoeMail
         </CardTitle>
         <CardDescription className="text-center">
-          萌萌哒临时邮箱服务 (。・∀・)ノ
+          萌萌哒临时邮箱服务 - 809blog (。・∀・)ノ
         </CardDescription>
       </CardHeader>
       <CardContent className="px-6">
